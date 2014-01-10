@@ -115,7 +115,7 @@ $
 <table width="350" heigth="500" border="0" align ="right">
 <tr>
 <td>
-<img src="lectures/2/fig/image7.JPG" width="350" heigth="350">
+<img src="fig/image7.JPG" width="350" heigth="350">
 </td>
 </tr>
 <tr>
