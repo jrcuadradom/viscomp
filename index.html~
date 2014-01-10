@@ -86,6 +86,7 @@ $\end {markdown}
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
 					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+condition: function() { return !!document.body.classList; } },
 					//added by Pierre:
 					{ src: '../../plugin/math/math.js', async: true }
 				]
