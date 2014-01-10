@@ -38,27 +38,27 @@ void main(){
 
 
 ## Transformaciones Bidimensionales 
-<img wigth ="500" height="500" src="fig/image1.JPG">
+<img wigth ="500" height="500" src="lectures/2/fig/image1.JPG">
 
 
 ## Transformaciones Bidimensionales
 
 <font color="yellow"> Tranformaciones del objeto vs transformación del sistema de cordenadas</font>
 
-<img wigth ="400" height="400" src="fig/image2.JPG">
+<img wigth ="400" height="400" src="lectures/2/fig/image2.JPG">
 
 
 ## Transformaciones Bidimensionales
 
 <font color="yellow"> Tranformación activa (base canónica) vs Transformación pasiva (cambio de base)</font>
 
-<img src="fig/image3.JPG">
+<img src="lectures/2/fig/image3.JPG">
 
 
 ## Transformaciones Bidimensionales
 
 <p align ="left"><font color="yellow">Traslación</font></p>
-<img wigth ="400" height="400" src="fig/image4.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image4.JPG" align ="left">
 <p align ="right">Vectorialmente tenemos:</p>
 </br>
 <p align ="right"><p align ="botton"><font color="#00FFFF">
@@ -83,7 +83,7 @@ $
 ## Transformaciones Bidimensionales
 
 <p align ="left"><font color="yellow">Escalamiento</font></p>
-<img wigth ="400" height="400" src="fig/image5.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image5.JPG" align ="left">
 <p align ="right">Vectorialmente tenemos:</p>
 </br>
 <p align ="right"><p align ="botton"><font color="#00FFFF">
@@ -108,7 +108,7 @@ $
 ## Transformaciones Bidimensionales
 
 <p align ="left"><font color="yellow">Rotación</font></p>
-<img wigth ="400" height="400" src="fig/image6.JPG">
+<img wigth ="400" height="400" src="lectures/2/fig/image6.JPG">
 
 
 ## Transformaciones Bidimensionales
@@ -167,7 +167,7 @@ $\boxed {y'= xsen \beta + ycos \beta}$
 
 ## Transformaciones Bidimensionales
 <p align ="left"><font color="red">Rotación</font></p>
-<img wigth ="800" height="250" src="fig/image8.JPG">
+<img wigth ="800" height="250" src="lectures/2/fig/image8.JPG">
 <p align ="left">Se tiene </p>
 $x' = x + h *y, y'=y$
 <p align ="left">,donde h es el parametro del esquilado, esto da:</p>
