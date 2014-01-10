@@ -87,7 +87,7 @@ $\end {markdown}
 					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
 					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
 					//added by Pierre:
-					{ src: 'plugin/math/math.js', async: true }
+					{ src: '../../plugin/math/math.js', async: true }
 				]
 			});
 //While trrying to fix mathjax with markdown added all three by Pierre:
