@@ -38,14 +38,14 @@ void main(){
 
 
 ## Two-dimensional transformations 
-<img wigth ="500" height="500" src="lectures/2/fig/image1.JPG">
+<img wigth ="500" height="500" src="fig/image1.JPG">
 
 
 ## Two-dimensional transformations 
 
 <font color="yellow"> Object Transformations vs Coordinate System Transformation</font>
 
-<img wigth ="400" height="400" src="lectures/2/fig/image2.JPG">
+<img wigth ="400" height="400" src="fig/image2.JPG">
 
 
 ## Two-dimensional transformations
@@ -58,7 +58,7 @@ void main(){
 ## Two-dimensional transformations
 
 <p align ="left"><font color="yellow">Traslation</font></p>
-<img wigth ="400" height="400" src="lectures/2/fig/image4.JPG" align ="left">
+<img wigth ="400" height="400" src="fig/image4.JPG" align ="left">
 <p align ="right">Vectorially we have:</p>
 </br>
 <p align ="right"><p align ="botton"><font color="#00FFFF">
@@ -83,7 +83,7 @@ $
 ## Two-dimensional transformations
 
 <p align ="left"><font color="yellow">Scaling</font></p>
-<img wigth ="400" height="400" src="lectures/2/fig/image5.JPG" align ="left">
+<img wigth ="400" height="400" src="fig/image5.JPG" align ="left">
 <p align ="right">Vectorially we have:</p>
 </br>
 <p align ="right"><p align ="botton"><font color="#00FFFF">
@@ -108,7 +108,7 @@ $
 ## Two-dimensional transformations
 
 <p align ="left"><font color="yellow">Rotation</font></p>
-<img wigth ="400" height="400" src="lectures/2/fig/image6.JPG">
+<img wigth ="400" height="400" src="fig/image6.JPG">
 
 
 ## Two-dimensional transformations
@@ -167,7 +167,7 @@ $\boxed {y'= xsen \beta + ycos \beta}$
 
 ## Two-dimensional transformations
 <p align ="left"><font color="red">Rotation</font></p>
-<img wigth ="800" height="250" src="lectures/2/fig/image8.JPG">
+<img wigth ="800" height="250" src="fig/image8.JPG">
 <p align ="left">We have </p>
 $x' = x + h *y, y'=y$
 <p align ="left">,where h is the sheared parameter, to obtain:</p>
@@ -280,7 +280,7 @@ $
 <table width="350" heigth="500" border="0" align ="left">
 <tr>
 <td>
-<img src="lectures/2/fig/image9.JPG" width="400" heigth="400">
+<img src="fig/image9.JPG" width="400" heigth="400">
 </td>
 </tr>
 </table>
