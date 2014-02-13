@@ -38,27 +38,27 @@ void main(){
 
 
 ## Two-dimensional transformations 
-<img wigth ="500" height="500" src="fig/image1.JPG">
+<img wigth ="500" height="500" src="lectures/2/fig/image1.JPG">
 
 
 ## Two-dimensional transformations 
 
 <font color="yellow"> Object Transformations vs Coordinate System Transformation</font>
 
-<img wigth ="400" height="400" src="fig/image2.JPG">
+<img wigth ="400" height="400" src="lectures/2/fig/image2.JPG">
 
 
 ## Two-dimensional transformations
 
 <font color="yellow"> Active Transformation (Standard Basis) vs Passive Transformation (change of base)</font>
 
-<img src="fig/image3.JPG">
+<img src="lectures/2/fig/image3.JPG">
 
 
 ## Two-dimensional transformations
 
 <p align ="left"><font color="yellow">Traslation</font></p>
-<img wigth ="400" height="400" src="fig/image4.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image4.JPG" align ="left">
 <p align ="right">Vectorially we get:</p>
 </br>
 <p align ="right"><p align ="botton"><font color="#00FFFF">
@@ -83,7 +83,7 @@ $
 ## Two-dimensional transformations
 
 <p align ="left"><font color="yellow">Scaling</font></p>
-<img wigth ="400" height="400" src="fig/image5.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image5.JPG" align ="left">
 <p align ="right">Vectorially we get:</p>
 </br>
 <p align ="right"><p align ="botton"><font color="#00FFFF">
@@ -108,14 +108,14 @@ $
 ## Two-dimensional transformations
 
 <p align ="left"><font color="yellow">Rotation</font></p>
-<img wigth ="400" height="400" src="fig/image6.JPG">
+<img wigth ="400" height="400" src="lectures/2/fig/image6.JPG">
 
 
 ## Two-dimensional transformations
 <table width="350" heigth="500" border="0" align ="right">
 <tr>
 <td>
-<img src="fig/image7.JPG" width="350" heigth="350">
+<img src="lectures/2/fig/image7.JPG" width="350" heigth="350">
 </td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ $\boxed {y'= xsin \beta + ycos \beta}$
 
 ## Two-dimensional transformations
 <p align ="left"><font color="red">Rotation</font></p>
-<img wigth ="800" height="250" src="fig/image8.JPG">
+<img wigth ="800" height="250" src="lectures/2/fig/image8.JPG">
 <p align ="left">We have </p>
 $x' = x + h *y, y'=y$
 <p align ="left">,where h is the sheared parameter, to obtain:</p>
@@ -280,7 +280,7 @@ $
 <table width="350" heigth="500" border="0" align ="left">
 <tr>
 <td>
-<img src="fig/image9.JPG" width="400" heigth="400">
+<img src="lectures/2/fig/image9.JPG" width="400" heigth="400">
 </td>
 </tr>
 </table>
@@ -649,13 +649,13 @@ $P'= S\ast T'\ast R\ast T\ast P$
 ##Two-dimensional transformations Composition
 <p><font color="blue">Some special compositions</font></p>
 <p><font color="yellow">Rotation from pivot point</font></p>
-<img wigth ="400" height="400" src="fig/image10.JPG">
+<img wigth ="400" height="400" src="lectures/2/fig/image10.JPG">
 
 
 ##Two-dimensional transformations Composition
 <p><font color="blue">Some special compositions</font></p>
 <p><font color="yellow">Rotation from pivot point</font></p>
-<img src="fig/image11.JPG">
+<img src="lectures/2/fig/image11.JPG">
 
 
 ##Two-dimensional transformations Composition
@@ -707,13 +707,13 @@ sin\beta & cos\beta & y_r(1-cos\beta)-x_rsin\beta  \cr
 ##Two-dimensional transformations Composition
 <p><font color="blue">Some special compositions</font></p>
 <p><font color="yellow">Scaling from static point</font></p>
-<img src="fig/image12.JPG">
+<img src="lectures/2/fig/image12.JPG">
 
 
 ##Two-dimensional transformations Composition
 <p><font color="blue">Some special compositions</font></p>
 <p><font color="yellow">Scaling from static point</font></p>
-<img src="fig/image13.JPG">
+<img src="lectures/2/fig/image13.JPG">
 
 
 ##Two-dimensional transformations Composition
@@ -765,7 +765,7 @@ s_x & 0 & x_f(1-s_x)  \cr
 ## Two-dimensional transformations Composition
 <p align ="left"><font color="blue">Some special compositions</font></p>
 <p align ="left"><font color="yellow">General directions to scaling</font></p>
-<img wigth ="400" height="400" src="fig/image14.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image14.JPG" align ="left">
 <p align ="right"><p align ="justify">
 1. The object is rotated to angle <font color="#00FFFF">$\beta$</font>, so the directions <font color="#00FFFF">$s_1$</font> y <font color="#00FFFF">$s_2$</font> match with the axes.
 </p></p>
@@ -794,12 +794,12 @@ s_1 cos^2\beta + s_2 sin^2\beta & (s_2-s_1)cos\beta sin\beta & 0  \cr
 
 
 ## Traslations
-<img src="fig/image15.JPG">
+<img src="lectures/2/fig/image15.JPG">
 
 
 ## Traslations
 <p align ="left"><font color="yellow">Specification</font></p>
-<img wigth ="400" height="400" src="fig/image16.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image16.JPG" align ="left">
 <p align ="left"><font size="5">Vectorially we get:</font></p>
 <p align ="right"><p align ="botton"><font color="#2EFE2E" size ="5">
 $\begin{bmatrix} 
@@ -857,12 +857,12 @@ z' \cr
 
 
 ##Scaling
-<img src="fig/image17.JPG">
+<img src="lectures/2/fig/image17.JPG">
 
 
 ## Scaling
 <p align ="left"><font color="yellow">Specification</font></p>
-<img wigth ="400" height="400" src="fig/image18.JPG" align ="left">
+<img wigth ="400" height="400" src="lectures/2/fig/image18.JPG" align ="left">
 <p align ="left"><font size="5">Vectorially we get:</font></p>
 <p align ="right"><p align ="botton"><font color="#2EFE2E" size ="5">
 $\begin{bmatrix} 
@@ -921,7 +921,7 @@ z' \cr
 
 ## Rotations
 <p align ="left"><font color="yellow">Parameters used in rotations</font></p>
-<img src="fig/image19.JPG">
+<img src="lectures/2/fig/image19.JPG">
 
 
 
