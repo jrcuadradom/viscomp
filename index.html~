@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Transformations</title>
+		<title>reveal.js - The HTML Presentation Framework</title>
 
 		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
 		<meta name="author" content="Hakim El Hattab">
@@ -86,7 +86,7 @@
 			});
 //While trrying to fix mathjax with markdown added all three by Pierre:
 			Reveal.addEventListener( 'slidechanged', function( event ) {
-				  //MathJax.Hub.Rerender();
+				  MathJax.Hub.Rerender();
 			} );
 			Reveal.addEventListener( 'fragmentshown', function( event ) {
 				 // event.fragment = the fragment DOM element
