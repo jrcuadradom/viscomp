@@ -535,7 +535,7 @@ $P$
 </font>
 </td>
 <td>
-$\overrightarrow{\hspace7in}$
+$\overrightarrow{\hspace5in}$
 </td>
 <td>
 <font size ="6">
@@ -559,7 +559,7 @@ Traslation
 </font>
 </td>
 <td>
-$\overrightarrow{\hspace1in}$
+$\overrightarrow{\hspace0.5in}$
 </td>
 <td>
 <font size ="6">
@@ -569,7 +569,7 @@ Rotation
 </font>
 </td>
 <td>
-$\overrightarrow{\hspace1in}$
+$\overrightarrow{\hspace0.5in}$
 </td>
 <td>
 <font color="yellow" size ="6">
@@ -579,7 +579,7 @@ Traslation
 </font>
 </td>
 <td>
-$\overrightarrow{\hspace1in}$
+$\overrightarrow{\hspace0.5in}$
 </td>
 </td>
 <td>
